@@ -1,0 +1,21 @@
+PODS:
+  - shared (1.0)
+  - shared_lib (1.0)
+
+DEPENDENCIES:
+  - shared (from `../shared`)
+  - shared_lib (from `../packages/kmm_lib_example_1/shared_lib`)
+
+EXTERNAL SOURCES:
+  shared:
+    :path: "../shared"
+  shared_lib:
+    :path: "../packages/kmm_lib_example_1/shared_lib"
+
+SPEC CHECKSUMS:
+  shared: c133c49697085ba65e4031b78e671fc97617a40d
+  shared_lib: 26799f78f35420f38e6f8d97464f99f0f5da2a02
+
+PODFILE CHECKSUM: a956c47bacdec1e9409df89f715c34db04f9d9b9
+
+COCOAPODS: 1.15.2

@@ -1,0 +1,2 @@
+${PODS_ROOT}/Target Support Files/shared_lib/shared_lib-xcframeworks.sh
+${PODS_ROOT}/../../packages/kmm_lib_example_1/shared_lib/build/XCFrameworks/release/shared_lib.xcframework

@@ -1,0 +1,6 @@
+target 'iosApp' do
+  use_frameworks!
+  platform :ios, '16.0'
+  pod 'shared', :path => '../shared'
+  pod 'shared_lib', :path => '../packages/kmm_lib_example_1/shared_lib'
+end

@@ -1,0 +1,16 @@
+{
+  "name": "shared_lib",
+  "version": "1.0",
+  "homepage": "Link to the Shared Module homepage",
+  "source": {
+    "http": ""
+  },
+  "authors": "",
+  "license": "",
+  "summary": "Some description for the Shared Module",
+  "vendored_frameworks": "build/XCFrameworks/release/shared_lib.xcframework",
+  "libraries": "c++",
+  "platforms": {
+    "ios": "16.0"
+  }
+}
